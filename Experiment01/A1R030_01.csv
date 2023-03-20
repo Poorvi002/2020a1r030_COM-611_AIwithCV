@@ -1,0 +1,6 @@
+age,gender,b.p,cholestrol,label
+20,male,high,high,positive
+45,female,normal,high,positive
+35,male,low,low,negative
+50,female,high,normal,positive
+50,male,normal,low,negative
