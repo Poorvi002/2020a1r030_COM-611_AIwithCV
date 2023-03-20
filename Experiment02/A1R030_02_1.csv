@@ -1,0 +1,5 @@
+example,sky,temp.,humidity,wind,water,forecast,
+1,sunny,warm,normal,strong,warm,same,Yes
+2,sunny,warm,high,strong,warm,same,Yes
+3,rainy,cold,high,strong,warm,change,no
+4,sunny,warm,high,strong,cool,change,Yes
